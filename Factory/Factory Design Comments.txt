@@ -1,0 +1,5 @@
+﻿Factory Method is following 100% OCP 
+No Change to the exsting code when new type is being added into the system.
+
+Simple Factory is like centralizing the object creation process and encapsulating it.
+When we have new type added into the system we have to apply If condition at high level code.
